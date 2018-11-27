@@ -3,5 +3,5 @@ Angel Kolarad was formed with a view to encourage the arts and sports qualities 
 
 ### Contact 
 email : [contact@angelkolarad.com](mailto:contact@angelkolarad.com)
-Facebook : [Angel Kolarad](facebook.com/AngelKolarad)
+Facebook : [Angel Kolarad](https://www.facebook.com/AngelKolarad)
 
