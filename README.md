@@ -1,5 +1,5 @@
-# Repository for www.iamgini.com
+# Repository for www.angelkolarad.com
 
-Personal Website : [iamgini.com](https://www.iamgini.com)
+Website : [www.angelkolarad.com](https://www.angelkolarad.com)
 
 - Theme : https://github.com/daattali/beautiful-jekyll

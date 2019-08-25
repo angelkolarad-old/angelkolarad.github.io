@@ -9,30 +9,30 @@
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://www.linkedin.com/in/gineesh/"
+  baseURL: "https://www.linkedin.com/in/#"
   icon: "fa-linkedin"
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/ginigangadharan"
+  baseURL: "https://www.facebook.com/AngelKolarad"
   icon: "fa-facebook"
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/ginigangadharan"
+  baseURL: "https://github.com/angelkolarad"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/ginigangadharan"
+  baseURL: "https://twitter.com/#"
   icon: "fa-twitter"
 
 youtube:
   name: "YouTube"
-  baseURL: "https://www.youtube.com/user/netgini"
+  baseURL: "https://www.youtube.com/channel/UCqyWH6lwaE95sy5ADYuWPBg?view_as=subscriber"
   icon: "fa-youtube"
 
 email:
   name: "Email me"
-  baseURL: "mailto:net.gini@gmail.com"
+  baseURL: "mailto:contact@angelkolarad.com"
   icon: "fa-envelope"
