@@ -25,10 +25,12 @@ description: Arts & Sports Club
 navbar-links:
   Home: "./"
   About: "about"
-  Tech Docs:
-    - Ansible: "https://www.techbeatly.com/ansible/"
-    - OpenShift: "https://www.techbeatly.com/category/cloud/openshift/"
-    - Kubernetes: "kubernetes"  
+  Activities: "#"
+  Videos: "videos"
+  # Tech Docs:
+  #  - Ansible: "https://www.techbeatly.com/ansible/"
+  #  - OpenShift: "https://www.techbeatly.com/category/cloud/openshift/"
+  #  - Kubernetes: "kubernetes"  
   # Blog: "blog"
   # Resume: "resume"
   # FAQ: "faq-list"
