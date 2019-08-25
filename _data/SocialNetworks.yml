@@ -1,0 +1,38 @@
+# You can define your custom social network links here.
+# Use the same key you added in _config.yml -> social-network-links.
+# In addition to that you need to specify the following properties:
+#   name: Specify a user-friendly name that will be used as a link title
+#   baseURL: Define a base URL which will be combined with the value of
+#            site.social-network-links.<key>
+#   icon: Specify a valid fontawesome icon class
+
+
+linkedin:
+  name: "LinkedIn"
+  baseURL: "https://www.linkedin.com/in/gineesh/"
+  icon: "fa-linkedin"
+
+facebook:
+  name: "Facebook"
+  baseURL: "https://www.facebook.com/ginigangadharan"
+  icon: "fa-facebook"
+
+github:
+  name: "GitHub"
+  baseURL: "https://github.com/ginigangadharan"
+  icon: "fa-github"
+
+twitter:
+  name: "Twitter"
+  baseURL: "https://twitter.com/ginigangadharan"
+  icon: "fa-twitter"
+
+youtube:
+  name: "YouTube"
+  baseURL: "https://www.youtube.com/user/netgini"
+  icon: "fa-youtube"
+
+email:
+  name: "Email me"
+  baseURL: "mailto:net.gini@gmail.com"
+  icon: "fa-envelope"
