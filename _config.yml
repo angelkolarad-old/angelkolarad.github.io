@@ -79,10 +79,10 @@ social-network-links:
 #  rss: true
 #  email: "someone@example.com"
 #  facebook: true
-  linkedin:
+#  linkedin:
   facebook: 
   github: 
-  twitter: 
+#  twitter: 
   youtube:
   email:
 
@@ -109,7 +109,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "iamgini.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "angelkolarad.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
